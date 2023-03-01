@@ -23,3 +23,13 @@ body {
     transform: translate(-50%, -50%);   
 
 }
+
+li {
+    padding: 5px;
+}
+
+li:hover {
+    transition: all 0.2s ease-in-out;
+    background-color: rgba(0, 0, 255, 0.3);
+
+}
